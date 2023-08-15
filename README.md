@@ -83,7 +83,7 @@ python3 evaluate_sup.py --dataset=brats  \
 <table>
 <tr>
     <td>Dataset</td> 
-    <td>Pretrain Model</td>
+    <td>Pretrained Model</td>
     <td>Finetuned Model</td>  
     <td>AUROC</td>  
 </tr>
